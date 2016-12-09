@@ -1,2 +1,3 @@
 # GSRHello-World
-Micky-mouse Hello World Git Repository
+Mini-mouse Hello World Git Repository - Changed from "Micky-mouse"
+This is a branch of the definitive master
